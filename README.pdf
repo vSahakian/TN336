@@ -1,0 +1,14 @@
+README for batch MST printing
+
+1) Put mstTools.py in the folder where your python path is
+
+2) If you're using canopy, open it up -
+
+3) Open up plotMSTbatch.py
+
+4) Follow the instructions on the top 
+	a) Make a folder labeled something like massMSout
+	b) Copy all massMS.out files into that folder (example given at the top of plotMSTbatch.py)
+	c) Make a directory for your pdf files
+	d) In the CHANGE ME section, put the directories from (b) and (c) into these variables
+	e) Run....
